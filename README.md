@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddh37&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddh37" /> </p>
 
-- 🔭 I’m currently working on **LIGHT GIG project with our client AT&T IN AMDOCS**
+- 🔭  I am an Enthusiast, who is passionate about exploring all the latest technologies from a research perspective. I like to integrate various technologies for better results and completion of the tasks.**
 
 - 🌱 I’m currently learning **unification and automation of processes**
 
